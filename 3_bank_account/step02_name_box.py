@@ -14,8 +14,7 @@
 
 def name_box():
     # ✍️ Write this line:
-    #    return '<input name="name" placeholder="Your name">'
-    return None  # 👈 YOUR CODE HERE (replace this line)
+    return '<input name="name" placeholder="Your name">'
 
 
 # ---------- Do not change anything below this line ----------

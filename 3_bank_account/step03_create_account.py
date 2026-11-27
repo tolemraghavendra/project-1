@@ -18,8 +18,7 @@
 
 def create_account(name):
     # ✍️ Write this line:
-    #    return {"name": name, "balance": 0}
-    return None  # 👈 YOUR CODE HERE (replace this line)
+    return {"name": name, "balance": 0}
 
 
 # ---------- Do not change anything below this line ----------

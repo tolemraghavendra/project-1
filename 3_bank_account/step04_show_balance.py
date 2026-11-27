@@ -17,8 +17,7 @@
 
 def balance_html(account):
     # ✍️ Write this line:
-    #    return "<h2>Balance: ₹" + str(account["balance"]) + "</h2>"
-    return None  # 👈 YOUR CODE HERE (replace this line)
+    return "<h2>Balance: ₹" + str(account["balance"]) + "</h2>"
 
 
 # ---------- Do not change anything below this line ----------

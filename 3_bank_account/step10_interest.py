@@ -17,8 +17,7 @@
 
 def add_interest(account):
     # ✍️ Write this line:
-    #    account["balance"] = account["balance"] + account["balance"] * 4 / 100
-    pass  # 👈 YOUR CODE HERE (replace this line)
+   account["balance"] = account["balance"] + account["balance"] * 4 / 100
 
 
 # ---------- Do not change anything below this line ----------

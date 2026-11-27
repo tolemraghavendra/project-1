@@ -19,8 +19,7 @@
 def add_history(history, text):
     # text is like "Deposited ₹500"
     # ✍️ Write this line:
-    #    history.append(text)
-    pass  # 👈 YOUR CODE HERE (replace this line)
+    history.append(text)
 
 
 # ---------- Do not change anything below this line ----------

@@ -14,8 +14,7 @@
 
 def valid_amount(amount):
     # ✍️ Write this line:
-    #    return amount > 0
-    return None  # 👈 YOUR CODE HERE (replace this line)
+   return amount > 0
 
 
 # ---------- Do not change anything below this line ----------

@@ -17,8 +17,7 @@
 
 def deposit(account, amount):
     # ✍️ Write this line:
-    #    account["balance"] = account["balance"] + amount
-    pass  # 👈 YOUR CODE HERE (replace this line)
+    account["balance"] = account["balance"] + amount
 
 
 # ---------- Do not change anything below this line ----------
